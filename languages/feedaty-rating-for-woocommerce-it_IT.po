@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Feedaty Wocommerce Rating\n"
+"POT-Creation-Date: 2021-11-15 11:01+0100\n"
+"PO-Revision-Date: 2021-11-15 11:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:102
+msgid "Default Language"
+msgstr "Lingua Predefinita"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:103
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:114
+msgid "Italian"
+msgstr "Italiano"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:104
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:115
+msgid "English US"
+msgstr "Inglese US"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:105
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:116
+msgid "Spanish (Spain)"
+msgstr "Spagnolo (Castigliano)"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:106
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:117
+msgid "French"
+msgstr "Francese"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:107
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:118
+msgid "German"
+msgstr "Tedesco"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:113
+msgid "All Languages"
+msgstr "Tutte le lingue"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:225
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:263
+msgid "Feedaty Global Settings"
+msgstr "Feedaty. Impostazioni Principali"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:264
+msgid "Global Settings"
+msgstr "Impostazioni Principali"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:273
+msgid "Feedaty Store Badge"
+msgstr "Feedaty. Badge dello store"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:274
+msgid "Store Badge"
+msgstr "Badge dello Store"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:283
+msgid "Feedaty Store Carousel"
+msgstr "Feedaty. Carosello dello store"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:284
+msgid "Store Carousel"
+msgstr "Carosello dello Store"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:293
+msgid "Feedaty Product Badge"
+msgstr "Feedaty. Badge Prodotto"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:294
+msgid "Product Badge"
+msgstr "Badge Prodotto"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:303
+msgid "Feedaty Product Carousel"
+msgstr "Feedaty. Carosello Prodotto"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:304
+msgid "Product Carousel"
+msgstr "Carosello Prodotto"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:313
+msgid "Feedaty Export Orders"
+msgstr "Feedaty. Esportazione Ordini"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:314
+msgid "Export"
+msgstr "Esportazione"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:406
+msgid "Merchant Code"
+msgstr "Codice Merchant"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:415
+msgid "Client Secret"
+msgstr "Chiave Segreta"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:424
+msgid "User Interface Language"
+msgstr "Lingua dell’interfaccia utente"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:433
+msgid "Reviews Language"
+msgstr "Lingua delle Recensioni"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:442
+msgid "Send Orders Trigger (API callback only)"
+msgstr "Evento di invio ordini (solo chiamate API)"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:451
+msgid "Enable Product Microdata"
+msgstr "Abilita i Microdata"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:459
+msgid "Enable Product Reviews Tab"
+msgstr "Abilita la Tab Recensioni Feedaty"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:467
+msgid "Hide Default WooCommerce Reviews Tab"
+msgstr "Nascondi la Tab recensioni di Woocommerce"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:540
+msgid "Enable Product Badge"
+msgstr "Abilita il Badge Prodotto"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:549
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:641
+msgid "Position (WC hook)"
+msgstr "Posizione (Hooks di WooCommerce)"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:632
+msgid "Enable Product Carousel"
+msgstr "Abilita il Carosello Prodotto"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:682
+msgid "Single Product Summary"
+msgstr ""
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:683
+msgid "Before Add To Cart Form"
+msgstr ""
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:684
+msgid "Before Add To Cart Button"
+msgstr ""
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:685
+msgid "After Add To Cart Form"
+msgstr ""
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:686
+msgid "Product Meta End"
+msgstr ""
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:687
+msgid "Before Reviews"
+msgstr ""
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:745
+msgid "Enable Store Badge"
+msgstr "Abilita lo Store Badge"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:829
+msgid "Enable Store Carousel"
+msgstr "Abilita il Carosello dello Store"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:890
+msgid "From"
+msgstr "Da"
+
+#: admin/class-feedaty-rating-for-woocommerce-admin.php:905
+msgid "To"
+msgstr "A"
+
+#: admin/class-feedaty-rating-for-woocommerce-widget-carousel.php:21
+msgid "Feedaty FWR Store Carousel"
+msgstr "Feedaty FWR Carosello dello Store"
+
+#: admin/class-feedaty-rating-for-woocommerce-widget-carousel.php:23
+msgid "Displays your Feedaty Store Carousel Widget"
+msgstr "Mostra il Widget con il Carosello Negozio Feedaty"
+
+#: admin/class-feedaty-rating-for-woocommerce-widget-carousel.php:41
+#: admin/class-feedaty-rating-for-woocommerce-widget.php:41
+msgid "You can change the widget inside the plugin store settings page."
+msgstr "Puoi modificare l’aspetto del widget nelle impostazioni del plugin."
+
+#: admin/class-feedaty-rating-for-woocommerce-widget-carousel.php:43
+msgid "Choose Carousel"
+msgstr "Scegli il Carosello"
+
+#: admin/class-feedaty-rating-for-woocommerce-widget.php:21
+msgid "Feedaty FWR Store Badge"
+msgstr "Feedaty FWR Store Badge"
+
+#: admin/class-feedaty-rating-for-woocommerce-widget.php:23
+msgid "Displays your Feedaty Store Badge Widget"
+msgstr "Mostra il Widget dello Store Badge Feedaty"
+
+#: admin/class-feedaty-rating-for-woocommerce-widget.php:43
+msgid "Choose Badge"
+msgstr "Scegli il Badge"
+
+#: admin/partials/feedaty-rating-for-woocommerce-admin-display.php:3
+#: admin/partials/feedaty-rating-for-woocommerce-export.php:3
+#: admin/partials/feedaty-rating-for-woocommerce-product_badge.php:3
+#: admin/partials/feedaty-rating-for-woocommerce-store_badge.php:3
+msgid "You must download and activate WooCommerce in order to use this plugin."
+msgstr "Devi scaricare e attivare WooCommerce per poter utilizzare questo plugin."
+
+#: admin/partials/feedaty-rating-for-woocommerce-admin-display.php:14
+#: admin/partials/feedaty-rating-for-woocommerce-product_badge.php:13
+#: admin/partials/feedaty-rating-for-woocommerce-store_badge.php:14
+msgid "Save all changes"
+msgstr "Salva le modifiche"
+
+#: admin/partials/feedaty-rating-for-woocommerce-export.php:12
+msgid "Export Orders"
+msgstr "Esporta gli Ordini"
+
+#: includes/acme_form_builder.php:291 includes/acme_form_builder.php:307
+msgid "Remove Image"
+msgstr "Rimuovi Immagine"
+
+#: includes/acme_form_builder.php:302
+msgid "Upload Image"
+msgstr "Carica Immagine"
+
+#: public/class-feedaty-rating-for-woocommerce-public.php:201
+msgid "Read All Product Reviews"
+msgstr "Leggi tutte le Recensioni"
+
+#: public/class-feedaty-rating-for-woocommerce-public.php:211
+msgid "Still no Reviews for this Product"
+msgstr "Non ci sono recensioni per questo articolo"
+
+#: public/class-feedaty-rating-for-woocommerce-public.php:228
+msgid "Feedaty Reviews"
+msgstr "Recensioni Feedaty"
+
+#~ msgid "Error. No data has been saved."
+#~ msgstr "Errore. Nessun dato è stato salvato."
+
+#~ msgid "Settings succesfully saved."
+#~ msgstr "Impostazioni salvate correttamente."

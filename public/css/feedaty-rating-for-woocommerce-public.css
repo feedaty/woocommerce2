@@ -1,0 +1,10 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.reviews-logo-container {
+    height: 34px;
+    background-repeat: no-repeat !important;
+    margin: 0 0 15px;
+}

@@ -1,0 +1,194 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.feedaty-rating-for-woocommerce-settings-form {
+    padding: 20px 20px 0 0;
+}
+
+p.form-field label {
+    display: inline-block;
+    min-width: 60px;
+}
+
+.feedaty-rating-for-woocommerce-settings-form p.form-field input.small {
+    max-width: 150px;
+}
+.feedaty-rating-for-woocommerce-settings-form p.form-field input.large {
+    max-width: 300px;
+}
+.feedaty-rating-for-woocommerce-settings-form p.form-field input,
+.feedaty-rating-for-woocommerce-settings-form p.form-field select {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+
+.feedaty_badges p.custom_radio {
+    vertical-align: top;
+    display: block;
+    clear: both;
+    padding-bottom: 15px;
+    border-bottom: 1px solid black;
+    min-height: 120px;
+    overflow: hidden;
+}
+
+
+.feedaty_badges p.custom_radio input {
+    display: inline-block;
+    float: left;
+    margin: 15px 15px 0 0;
+}
+
+.feedaty_badges p.custom_radio label {
+    display: inline-block;
+    float: left;
+    max-width: 80%;
+}
+
+.feedaty_badges p.custom_radio .wrap {
+    display: block;
+    float:left;
+    min-width: 200px;
+}
+
+.feedaty_badges p.custom_radio .wrap:nth-child(odd) {
+    max-width: 200px;
+}
+
+
+/*----------- ACME CSS ----------- */
+
+.feedaty-rating-for-woocommerce-settings-form {
+	background-color: #ffffff !important;
+	padding: 20px;
+	border-radius: 0 0 20px 20px;
+}
+
+.feedaty-rating-for-woocommerce-settings-form form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;	
+	column-gap: 20px;
+	background-color: #f4f4f4;
+    padding: 20px 15px;
+    border-radius: 10px;
+}
+
+.feedaty-rating-for-woocommerce-settings-form form.feedaty_badges {
+    display: grid;
+    grid-template-columns: 1fr;	
+	column-gap: 20px;
+	background-color: #f4f4f4;
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+
+.feedaty-rating-for-woocommerce-settings-form form.feedaty_badges img {
+    max-width: 1000px;
+	background-color: #fff;
+	width: 100%;
+    padding: 3px;
+    background-color: #FFFFFF;
+}
+
+.feedaty-rating-for-woocommerce-settings-form form.feedaty_badges p.form-field.custom_radio label {
+	display: flex;
+    max-width: 100%;
+    flex-direction: row;
+}
+
+.feedaty-rating-for-woocommerce-settings-form form.feedaty_badges p.form-field {
+	    padding: 30px 15px;
+}
+
+.feedaty_badges p.custom_radio .wrap {
+	margin-bottom: 15px;
+}
+
+.feedaty-rating-for-woocommerce-settings-form form.feedaty_badges  input#feedaty-rating-for-woocommerce-store_carousel_id ,
+.feedaty-rating-for-woocommerce-settings-form form.feedaty_badges  input#feedaty-rating-for-woocommerce-store_badge_id ,
+.feedaty-rating-for-woocommerce-settings-form form.feedaty_badges  input#feedaty-rating-for-woocommerce-product_badge_id ,
+.feedaty-rating-for-woocommerce-settings-form form.feedaty_badges  input#feedaty-rating-for-woocommerce-product_carousel_id  {
+	height: 32px;
+	width: 32px;
+}
+
+
+
+.feedaty-rating-for-woocommerce-settings-form form.feedaty_badges  input#feedaty-rating-for-woocommerce-store_carousel_id::before ,
+.feedaty-rating-for-woocommerce-settings-form form.feedaty_badges  input#feedaty-rating-for-woocommerce-store_badge_id::before ,
+.feedaty-rating-for-woocommerce-settings-form form.feedaty_badges  input#feedaty-rating-for-woocommerce-product_badge_id::before ,
+.feedaty-rating-for-woocommerce-settings-form form.feedaty_badges  input#feedaty-rating-for-woocommerce-product_carousel_id::before  {
+	height: 24px;
+	width: 24px;
+}
+
+.feedaty-rating-for-woocommerce-settings-form form.feedaty_badges label strong {
+	font-size: 18px;
+	text-transform: capitalize;
+}
+
+.feedaty-rating-for-woocommerce-settings-form form p.form-field  {
+	border: 3px solid #ffffff;
+	padding: 15px;
+	border-radius: 10px;
+	margin: 5px 0;
+}
+
+.header-logo {
+	width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.header-logo img {
+	background-color: #ffffff;
+	border-radius: 20px;
+    padding: 15px 10px 10px 10px;
+}
+
+.feedaty-rating-for-woocommerce__content h1 {
+	background-color: #fad77d !important;
+	padding: 20px;
+	margin-bottom: 0 !important;
+	font-size: 20px;
+	border-radius: 20px 20px 0 0;
+}
+
+#wpbody-content  {
+	width: 99%;
+}
+
+.feedaty-rating-for-woocommerce-settings-form form.feedaty_badges p.form-field.store_badge img {
+	max-width: 300px !important;
+}
+
+
+.feedaty-rating-for-woocommerce__copyrights {
+	text-align: center;
+	    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+@media only screen and (max-width: 768px) {
+	
+	.feedaty-rating-for-woocommerce-settings-form p.form-field input, .feedaty-rating-for-woocommerce-settings-form p.form-field select {
+    display: inline-block;
+    margin-left: 0;
+    margin-top: 10px;
+}
+	
+	.feedaty-rating-for-woocommerce-settings-form form.feedaty_badges p.form-field {
+    padding: 30px 15px;
+    display: flex;
+    flex-direction: column;
+}
+	
+	input[type="radio"]:checked:before {
+		    margin: 3px;
+	}
+	
+}
+
