@@ -138,6 +138,9 @@
 		 */
 		public function validate ( $input ) {
 			$valid = $this->options;
+			if ( empty( $valid ) || !is_array($valid) ) {
+				$valid = [];
+			}
 			if ( is_array( $input ) && isset( $input['page_id'] ) ) {
 				$collections = call_user_func( array ( $this, $input['page_id'] ) );
 				foreach ( $collections as $k => $collection ) {

@@ -74,7 +74,7 @@
 			if ( defined( 'FEEDATY_WOOCOMMERCE_RATING_VERSION' ) ) {
 				$this->version = FEEDATY_WOOCOMMERCE_RATING_VERSION;
 			} else {
-				$this->version = '1.0.2';
+				$this->version = '1.0.3';
 			}
 			$this->plugin_name = 'feedaty-rating-for-woocommerce';
 			$this->legacy_options = sprintf( '%s-legacy', $this->plugin_name );

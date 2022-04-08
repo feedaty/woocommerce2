@@ -8,7 +8,7 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link              https://profiles.wordpress.org/acmemediakits/
+ * @link              https://profiles.wordpress.org/feedaty/
  * @since             1.0.0
  * @package           Feedaty_Woocommerce_Rating
  *
@@ -16,9 +16,9 @@
  * Plugin Name:       Feedaty Opinioni Certificate
  * Plugin URI:        https://www.feedaty.com/
  * Description:       The new Feedaty Rating for WooCommerce will let you easily connect your shop to Feedaty
- * Version:           1.0.2
- * Author:            Mirko Bianco
- * Author URI:        https://profiles.wordpress.org/acmemediakits/
+ * Version:           1.0.3
+ * Author:            Feedaty
+ * Author URI:        https://profiles.wordpress.org/feedaty/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       feedaty-rating-for-woocommerce
@@ -35,7 +35,7 @@ if ( ! defined( 'WPINC' ) ) {
  * Start at version 1.0.0 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions.
  */
-define( 'FEEDATY_WOOCOMMERCE_RATING_VERSION', '1.0.2' );
+define( 'FEEDATY_WOOCOMMERCE_RATING_VERSION', '1.0.3' );
 
 /**
  * The code that runs during plugin activation.
